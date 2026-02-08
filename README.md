@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isOddf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-oddf@esm/index.mjs';
+import isOddf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-oddf@v0.1.1-esm/index.mjs';
 ```
 
 #### isOddf( x )
@@ -107,7 +107,7 @@ bool = isOddf( NaN );
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import isOddf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-oddf@esm/index.mjs';
+import isOddf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-oddf@v0.1.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
